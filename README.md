@@ -1,9 +1,3 @@
-'##  Contato
-
-- LinkedIn: www.linkedin.com/in/matheus-antony-3416a2430
-- GitHub: Matheus-Main14
-
-
 #  Olá! Eu sou Matheus Antony
 
  Estudante de **Tecnologia em Sistemas para Internet no IFRN**  
@@ -84,7 +78,7 @@ O projeto tem como objetivo aplicar na prática conceitos de desenvolvimento de 
 
 <div align="left">
 
-<a href="COLOQUE-SEU-LINKEDIN-AQUI">
+<a href="www.linkedin.com/in/matheus-antony-3416a2430">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
